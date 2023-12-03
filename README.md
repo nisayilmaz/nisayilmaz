@@ -8,7 +8,6 @@
 
 ###
 
-<p align="left">I'm a senior computer engineering student & a full-stack developer from Türkiye<br><br>- 🔭 I’m working as a full-stack developer at Siemens<br>- 📚 I'm currently learning Spring Boot & Angular</p>
 
 ###
 
