@@ -53,11 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-###
 
 <div align="center">
   <a href="https://linkedin.com/in/nisa-yilmaz">
